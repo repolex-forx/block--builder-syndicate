@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "builder-syndicate",
+  "versions": [
+    {
+      "commit": "86c06f67b569d23961443a87d8c2b742a4d46332",
+      "tag": "main",
+      "parsed_at": "2026-10-02T10:48:09.133586+00:00"
+    }
+  ]
+}
