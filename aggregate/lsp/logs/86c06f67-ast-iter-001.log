@@ -1,0 +1,7 @@
+[2026-10-02T10:43:21Z] === AST ITERATION 1 START | repo=block/builder-syndicate sha=86c06f67 ===
+[2026-10-02T10:43:21Z] [iter=1] PHASE START: ast repo=block/builder-syndicate sha=86c06f67
+[2026-10-02T10:43:21Z] [iter=1] Building AST aggregate chunks
+[2026-10-02T10:43:42Z] [iter=1] AST chunks built count=1 triples=265636
+[2026-10-02T10:43:42Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/86c06f67b569d23961443a87d8c2b742a4d46332/.complete
+[2026-10-02T10:43:42Z] [iter=1] PHASE END: ast elapsed_s=21 elapsed_min=0.3
+[2026-10-02T10:43:42Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
