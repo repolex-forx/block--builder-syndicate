@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/builder-syndicate/commit/86c06f67b569d23961443a87d8c2b742a4d46332",
       "git:hexsha": "86c06f67b569d23961443a87d8c2b742a4d46332",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
